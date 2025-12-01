@@ -1,4 +1,4 @@
-📊 Business Intelligence Tool for Commercial Management
+#Business Intelligence Tool for Commercial Management
 A Lean Six Sigma–based BI solution to improve commercial efficiency, information quality, and decision-making in the fishing industry.
 
 📌 Overview
